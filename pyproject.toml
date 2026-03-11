@@ -1,0 +1,11 @@
+[project]
+name = "movielens-sr"
+version = "0.1.0"
+description = "Uniandes - Sistemas de Recomendación - MovieLens"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.25.0,<2.0.0",
+    "pandas>=2.2.0,<3.0.0",
+    "scikit-surprise>=1.1.4",
+]
