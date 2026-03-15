@@ -1,0 +1,8 @@
+fastapi
+streamlit
+joblib
+requests
+uvicorn
+numpy>=1.25.0,<2.0.0
+pandas>=2.2.0,<3.0.0
+scikit-surprise>=1.1.4
