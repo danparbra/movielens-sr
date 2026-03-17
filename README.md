@@ -13,7 +13,7 @@ cd movielens-sr/
 
 2. Construir container
 ```bash
-docker build -t movielenes-app .
+docker build -t movielens-app .
 ```
 
 3. Correr
